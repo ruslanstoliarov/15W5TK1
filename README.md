@@ -2,4 +2,4 @@
 test 1
 zmiany 1
 *italicized text*
-tets2
+test2 - 2
