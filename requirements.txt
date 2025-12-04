@@ -1,0 +1,12 @@
+
+# W5TK1 Python Dependencies
+# -------------------------
+# This file lists the libraries required to run the project tools.
+# Install them using: pip install -r requirements.txt
+
+# Standard libraries for the Course Tools:
+# (Currently, our core tools use built-in libraries like 'os', 're', 'sys')
+# But we add these as placeholders for future Agent/3D data work:
+
+# requests  # For API calls
+# numpy     # For data handling

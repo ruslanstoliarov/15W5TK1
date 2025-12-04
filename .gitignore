@@ -1,11 +1,16 @@
-# Class Level Repo
-W5TK1b/
-W5TK1a/
+X_Intel 
+
+SERIALIZED_CONTEXT.txt
+RECONSTRUCTOR_CONTEXT.md
+./SERIALIZED_CONTEXT.txt
+./RECONSTRUCTOR_CONTEXT.md
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+
 
 # C extensions
 *.so
