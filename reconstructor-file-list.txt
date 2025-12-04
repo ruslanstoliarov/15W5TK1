@@ -1,0 +1,4 @@
+README.md
+student-genesis-guide.md
+0_Meta/Student_and_Project_Profile.md
+Class/Lectures/W5TK1-1-6-A-G3.md
